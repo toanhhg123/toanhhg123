@@ -61,11 +61,3 @@
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=toanhhg123&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
-
-
-<br>
-<h2 align="center">📑 My Favorites Quote 📑</h2>
-<br>
-<a href="#" target="_blank">
-  <img src="svg/rolledev-quotes.svg" width="846" height="150" alt="rolledev-official" />
-</a>
