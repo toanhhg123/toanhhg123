@@ -19,41 +19,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
 
-## 🚀 Projects
-
-<table>
-  <tr>
-    <td>
-      <a href="[Project 1 Repository]">
-        <img src="https://via.placeholder.com/300x200" alt="Project 1 Thumbnail" width="300" height="200">
-      </a>
-    </td>
-    <td>
-      <a href="[Project 2 Repository]">
-        <img src="https://via.placeholder.com/300x200" alt="Project 2 Thumbnail" width="300" height="200">
-      </a>
-    </td>
-    <td>
-      <a href="[Project 3 Repository]">
-        <img src="https://via.placeholder.com/300x200" alt="Project 3 Thumbnail" width="300" height="200">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3><a href="[Project 1 Repository]">[Project 1 Title]</a></h3>
-      <p>[Brief description of Project 1]</p>
-    </td>
-    <td>
-      <h3><a href="[Project 2 Repository]">[Project 2 Title]</a></h3>
-      <p>[Brief description of Project 2]</p>
-    </td>
-    <td>
-      <h3><a href="[Project 3 Repository]">[Project 3 Title]</a></h3>
-      <p>[Brief description of Project 3]</p>
-    </td>
-  </tr>
-</table>
 
 ## 📫 Contact
 
