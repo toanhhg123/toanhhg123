@@ -22,13 +22,13 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a deep foc
 
 ## 🌍 Find Me On
 
-- [LinkedIn](https://www.linkedin.com/in/lehuutoan)
-- [Twitter](https://twitter.com/lehuutoan)
+- [LinkedIn](linkedin.com/in/tom-le-471660146)
+- [Twitter](https://x.com/rol_le1843)
 - [Personal Website](https://lehuutoan.dev) (coming soon)
 
 ## 📈 GitHub Stats
 
-![Le Huu Toan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=toanhhg123&show_icons=true&hide_title=true)
+![Le Huu Toan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=toanhhg123)
 
 ---
 
