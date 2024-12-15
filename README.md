@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a deep foc
 
 ## 📈 GitHub Stats
 
-![Le Huu Toan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true)
+![Le Huu Toan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=toanhhg123&show_icons=true&hide_title=true)
 
 ---
 
