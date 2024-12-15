@@ -1,31 +1,35 @@
-<h1 align="center">About Me</h1>
+# Hi, I'm Tom 👋
 
-<p align="center">
-  <img src="https://via.placeholder.com/150" alt="Profile Picture" width="150" height="150" style="border-radius: 50%;">
-</p>
+Welcome to my GitHub profile! I'm a passionate software engineer with a deep focus on building scalable, efficient, and high-performance systems. With expertise in backend and full-stack development, I specialize in modern technologies such as Java, Spring, Node.js, and cloud-native architectures like AWS and Kubernetes. I'm always eager to solve complex problems and collaborate with like-minded developers to create impactful solutions.
 
-<h2 align="center">Hi, I'm [Your Name]!</h2>
+## 🚀 About Me
 
-<p align="center">
-  I'm a [Your Profession/Role] based in [Your Location]. In my free time, I enjoy [Your Hobbies/Activities] and exploring my passions for [Your Interests]. 
-</p>
+- 🔭 I’m currently working on **building robust microservices** with **Spring Boot** and **Node.js**.
+- 🌱 I’m learning more about **cloud-native patterns**, **Kafka**, and **Kubernetes**.
+- 👯 I’m open to **collaborating on cutting-edge projects** and contributing to open-source initiatives.
+- 💬 Ask me about **Java**, **Spring**, **React**, **AWS**, **Docker**, **Kubernetes**, **Kafka**, and **microservices** architecture.
+- 📫 Reach out to me via email: [rol.dev.1102@gmail.com](mailto:rol.dev.1102@gmail.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: When I'm not coding, I enjoy **exploring new technologies** and **optimizing workflows**.
 
-<p align="center">
-  I believe in the power of [Your Values/Principles] and strive to incorporate these into both my personal and professional life. 
-</p>
+## 🔧 Technologies & Tools
 
-<p align="center">
-  When I'm not working, you can find me [Your Hobbies/Activities Description, e.g., hiking in the nearby mountains, reading the latest bestsellers, or experimenting with new recipes in the kitchen].
-</p>
+- **Languages**: Java, JavaScript, TypeScript
+- **Frameworks & Libraries**: Spring Boot, React, Node.js, Kafka
+- **Cloud & DevOps**: AWS, Kubernetes, Docker
+- **Databases**: PostgreSQL, MySQL, MongoDB, Redis
+- **Other Tools**: Maven, Git, CI/CD, Docker Compose
 
-<p align="center">
-  I'm always eager to learn and grow, both personally and professionally. Feel free to reach out if you'd like to connect!
-</p>
+## 🌍 Find Me On
 
-## 📫 Contact
+- [LinkedIn](https://www.linkedin.com/in/lehuutoan)
+- [Twitter](https://twitter.com/lehuutoan)
+- [Personal Website](https://lehuutoan.dev) (coming soon)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-username/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/your-twitter-username"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+## 📈 GitHub Stats
+
+![Le Huu Toan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true)
+
+---
+
+Feel free to explore my repositories, contribute, or get in touch if you'd like to collaborate. Thanks for visiting my profile! 😊
