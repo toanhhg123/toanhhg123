@@ -1,3 +1,7 @@
+
+**⚠️ Note:**  
+This GitHub profile is **dedicated solely to learning and researching technology upgrades**. It is not intended as my primary work-related GitHub.
+
 # Hi, I'm Tom 👋
 
 Welcome to my GitHub profile! I'm a passionate software engineer with a deep focus on building scalable, efficient, and high-performance systems. With expertise in backend and full-stack development, I specialize in modern technologies such as Java, Spring, Node.js, and cloud-native architectures like AWS and Kubernetes. I'm always eager to solve complex problems and collaborate with like-minded developers to create impactful solutions.
