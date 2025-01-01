@@ -1,6 +1,7 @@
 
-**⚠️ Note:**  
-This GitHub profile is **dedicated solely to learning and researching technology upgrades**. It is not intended as my primary work-related GitHub.
+
+#### **⚠️ Note:** This GitHub profile is **dedicated solely to learning and researching technology upgrades**. It is not intended as my primary work-related GitHub.
+
 
 # Hi, I'm Tom 👋
 
