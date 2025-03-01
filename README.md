@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a deep foc
 
 - **Languages**: Java, JavaScript, TypeScript
 - **Frameworks & Libraries**: Spring Boot, React, Node.js, Kafka
-- **Cloud & DevOps**: AWS, Kubernetes, Docker
+- **Cloud, Gitops & DevOps**: AWS, Kubernetes, Docker, ArgoCD, Jenkins
 - **Databases**: PostgreSQL, MySQL, MongoDB, Redis
 - **Other Tools**: Maven, Git, CI/CD, Docker Compose
 
