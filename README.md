@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a deep foc
 
 ## 🌍 Find Me On
 
-- [LinkedIn](linkedin.com/in/tom-le-471660146)
+- [LinkedIn](www.linkedin.com/in/toan-tom)
 - [Twitter](https://x.com/rol_le1843)
 - [Personal Website](https://lehuutoan.dev) (coming soon)
 
